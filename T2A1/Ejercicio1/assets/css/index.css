@@ -1,0 +1,58 @@
+caption {
+	color: blue;
+}
+
+table td {
+	color: green;
+}
+
+table .especial, td #purus {
+	color: orange;
+}
+
+table .especial2 {
+	color: red;
+}
+
+#titulo {
+	color: teal;
+}
+
+#suspendisse {
+	color: red;
+}
+
+.destacado {
+	color: orange;
+}
+
+#subtitulo {
+	color: blue;
+}
+
+#aenean {
+	color: red;
+}
+
+#aliquam {
+	color: blue;
+}
+
+.especial {
+	color: purple;
+}
+
+#adicional {
+	color: olive;
+}
+
+#adicional #especial {
+	color: #FF00FF;
+}
+
+#donec {
+	color: green;
+}
+
+
+
